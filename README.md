@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kosar
-- 🌱 I’m currently learning Web Designing
+- 🌱 I’m currently focusing on web development
 
 <!---
 KosarTalei/KosarTalei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
