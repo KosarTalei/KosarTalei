@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kosar</h1>
-- 🌱 I’m currently focusing on web development
+<h1 align="center">Hi 👋, I'm Kosar 🌱</h1>
 
 <!---
 KosarTalei/KosarTalei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
